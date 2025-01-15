@@ -29,6 +29,9 @@ Perfect for those who want to relive the aesthetics of early 2000s websites!
 
 ## Screenshots
 
+### Most Recent Release
+### ![Most Recent Release](https://github.com/user-attachments/assets/c1805201-7336-4db4-a5ee-f68ed213d012)
+
 
 ## Downloads
 ### All Releases:
