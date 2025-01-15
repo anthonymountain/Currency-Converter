@@ -31,8 +31,10 @@ Perfect for those who want to relive the aesthetics of early 2000s websites!
 
 
 ## Downloads
+### All Releases:
+[Download](https://github.com/anthonymountain/Currency-Converter/releases)
 ### Current Release: 2000s Patch
-[Download the 2000s Patch](https://github.com/yourusername/yourrepo/releases/download/2000s-patch/main_gui.exe)
+[Download the 2000s Patch](https://github.com/anthonymountain/Currency-Converter/releases/tag/latest)
 
 ### Upcoming Release: Professional Version
 Stay tuned for the polished, professional look in the next version!
