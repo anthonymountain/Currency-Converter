@@ -20,7 +20,6 @@ def convert_currency():
         result_text = f"Conversion Results:\n"
         for currency, converted_amount in result.items():
             result_text += f"{currency}: {converted_amount:.2f}\n"
-        result_text += "the economy sux!!11!!!!"
 
         result_label.config(text=result_text, fg="#00FF00")
     except ValueError:
