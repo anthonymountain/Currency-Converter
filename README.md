@@ -25,6 +25,8 @@ Perfect for those who want to relive the aesthetics of early 2000s websites!
   * Eye-popping colors and classic fonts.
   * Gradient backgrounds for maximum nostalgia.
   * Perfectly chaotic and retro!
+* Future Features:
+  * **Professional Edition**: Streamlined design, dark theme
 
 
 ## Screenshots
