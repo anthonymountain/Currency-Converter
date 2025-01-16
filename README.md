@@ -16,7 +16,7 @@ Perfect for those who want to relive the aesthetics of early 2000s websites!
 3. [Downloads](#downloads)
 4. [Bugs](#bugs)
 5. [Feedback](#feedback)
-6. [License](#license)
+6. [API Usage](#api-usage)
 
 ## Features
 * Convert between multiple currencies using live exchange rates.
@@ -47,8 +47,9 @@ Stay tuned for the polished, professional look in the next version!
 **No known bugs
 
 
-## License
-
-
 ## Feedback
 Feedback options will be provided in the future.
+
+
+## API Usage
+This application utilizes the [CurrencyAPI](https://currencyapi.com) API to fetch live exchange rate data.
